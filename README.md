@@ -1,6 +1,6 @@
 # LSTM for time series forecasting
 
-In this repository I will implement a LSTM architecture for time series forecasting. We used heartbeat record as data.
+In this repository I will implement a LSTM architecture for time series forecasting. We used heartbeat records as dataset.
 <br/>
 
 
